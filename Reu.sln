@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reu", "Reu\Reu.csproj", "{639A3734-3F16-43BF-A3FA-1C6788ABE9E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Reu|Any CPU = Reu|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{639A3734-3F16-43BF-A3FA-1C6788ABE9E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639A3734-3F16-43BF-A3FA-1C6788ABE9E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639A3734-3F16-43BF-A3FA-1C6788ABE9E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639A3734-3F16-43BF-A3FA-1C6788ABE9E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{639A3734-3F16-43BF-A3FA-1C6788ABE9E7}.Reu|Any CPU.ActiveCfg = Reu|Any CPU
+		{639A3734-3F16-43BF-A3FA-1C6788ABE9E7}.Reu|Any CPU.Build.0 = Reu|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D4AE501-2744-46B7-AC81-A687B5653037}
+	EndGlobalSection
+EndGlobal

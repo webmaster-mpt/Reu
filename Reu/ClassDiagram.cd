@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Reu.AdminPanel">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAgCAABAAAICCAAIACAAAgAAAAgAAAAAAAgQA=</HashCode>
+      <FileName>AdminPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reu.Auth">
+    <Position X="5.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAAQAAgCIAACAAAACAGCACUAAAEAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Auth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reu.Claim">
+    <Position X="10.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACACAAIBBiAAAABCABCCAQBCDACIBQUICABRAQEEQGg=</HashCode>
+      <FileName>Claim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reu.EditPassword">
+    <Position X="13" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAQAAACIAAAAAABCgEAACAAAEAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>EditPassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reu.Export">
+    <Position X="15.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ADAAAAQIACgAAACBAAOIAQECAIAACAAAAAAhAAAGAIA=</HashCode>
+      <FileName>Export.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reu.Fak">
+    <Position X="2.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gQAIAEAAECACACBAAACAAQYCQGQAAAQIAACIAAAEGgA=</HashCode>
+      <FileName>Fak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reu.Get">
+    <Position X="15.75" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Get.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reu.Lk">
+    <Position X="17.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAQCAAAhBCAAACEAABCEAQDCKAQAAAQICAgQAAEAAEA=</HashCode>
+      <FileName>Lk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reu.PanelUser">
+    <Position X="0.5" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACCAABAAAAACAAAACAAAABAAAgAACAABAAAA=</HashCode>
+      <FileName>PanelUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reu.Program">
+    <Position X="15.75" Y="7.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reu.Reg">
+    <Position X="5.5" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAwAAACAAAAAAgACACBCCEAAAAAACAAAAAAAAABA=</HashCode>
+      <FileName>Reg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reu.Reset" Collapsed="true">
+    <Position X="20.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ARMAAQAAACAAAQAAAACgAAACAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Reset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reu.SendEmail">
+    <Position X="20.25" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAACCAAAAAAAACAAAACAAAAAAAAAAAAAAQAACA=</HashCode>
+      <FileName>SendEmail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reu.StAdmin">
+    <Position X="7.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ACIAAAABBCAAAgEABBCAARhSCCEIBQUJCABxAAkEAjg=</HashCode>
+      <FileName>StAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reu.temporary_pass">
+    <Position X="20.25" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIACCAAAAAAAACAAAACABAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>temporary pass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reu.User">
+    <Position X="13" Y="4.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gQEAAAIAACUgADAAAACAAQYDAACAAAAIAAAAAoAAEQA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reu.Properties.Resources">
+    <Position X="20.25" Y="7.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reu.Properties.Settings">
+    <Position X="17.75" Y="7.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
